@@ -50,7 +50,7 @@ The Critic network architecture is three fully connected layers with 128 and 128
 This training was performed gradually, changing manually some hyper parameters mentioned above. 
 
 Checkout the reward plot of my best run here:
- ![Reward Plot](https://github.com/HyunTruth/drlnd-p2/master/result.png)
+ ![Reward Plot](https://github.com/HyunTruth/drlnd-p2/blob/master/result.PNG)
 
 
 ## Ideas for Future Work
